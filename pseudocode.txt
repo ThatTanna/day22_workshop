@@ -1,0 +1,5 @@
+GET /api/rsvps
+GET /api/rsvps?q=fred
+POST /api/rsvps
+PUT /api/rsvps/{id}
+GET /api/rsvps/content
